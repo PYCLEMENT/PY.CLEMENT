@@ -1,4 +1,4 @@
-## 🎉 Pyclement's Awesome Portfolio 🎉
+## 🎉 Py.clement's Awesome Portfolio 🎉
 
 
 Welcome to my corner of the internet! Here, you’ll find an engaging collection of my projects, experiences, and skills in the vibrant realms of Statistics and IT. Come on in and see what I can do!
