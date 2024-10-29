@@ -41,7 +41,6 @@ Creative approach to challenges 💡
 Time Management:
 Excellent organizational skills 📅
 Ability to prioritize tasks effectively ⏳
-- 
 
 ## 🏆 Certificates
 
