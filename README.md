@@ -63,7 +63,7 @@ Location: Kwabenya, Accra
 - 📖 Reading and Research works
 - 🧩 Problem-solving
 - 📺 Watching Documentaries
-- photography 
+- 📸 Photography 
 <!--
 **PYCLEMENT/PYCLEMENT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
